@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
     private long initaialContDownINMillis = 60000;
     private int timerInterval = 1000;
     private int remainingTime =60;
-    private  int aThousand = 10;
+    private  int aThousand = 1000;
 
     private final String REMAINING_TIME_KEY = "remaining time key";
     private final String A_THOUSAND_KEY ="a thousand key";
